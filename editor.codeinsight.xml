@@ -1,5 +1,6 @@
 <application>
   <component name="CodeInsightSettings">
+    <option name="PARAMETER_INFO_DELAY" value="10" />
     <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
 </application>
