@@ -1,5 +1,5 @@
 <templateSet group="user">
-  <template name="cl" value="console.log('');" description="JS Console Log" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$);" description="JS Console Log" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
